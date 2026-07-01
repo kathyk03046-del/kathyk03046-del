@@ -11,7 +11,7 @@ I build opinionated skills and products. I don't have a traditional engineering 
   
 
 ## Energy & Mobility Domain
-- 📦 [U.S._Grid_AI_Infrastructure_Audit](https://github.com/kathyk03046-del/U.S._Grid_AI_Infrastructure_Audit) - End-to-end data pipeline for U.S. grid infrastructure audit. Integrates EIA-930/861M/923 datasets to model physical resilience, unit economics, and ESG compliance for 100MW+ AI clusters.
+- [U.S._Grid_AI_Infrastructure_Audit](https://github.com/kathyk03046-del/U.S._Grid_AI_Infrastructure_Audit) - End-to-end data pipeline for U.S. grid infrastructure audit. Integrates EIA-930/861M/923 datasets to model physical resilience, unit economics, and ESG compliance for 100MW+ AI clusters.
 - [Fleet-ROI-Optimizer-Electric-Aviation](https://github.com/kathyk03046-del/Fleet-ROI-Optimizer-Electric-Aviation)- A digital twin and predictive ROI engine for electric aircraft fleets. Bridges 1Hz physics telemetry with a 96%-accuracy polynomial ML model and linear programming (Solver) to maximize EBITDA under regional energy constraints.
   
 <!--
