@@ -1,9 +1,19 @@
 ## Hi there 👋
 
+I build opinionated skills and products. I don't have a traditional engineering background, but with the help of coding agents, I've been able to turn lots of my ideas into reality. For me, Code is an externalization of thought.
+
+---
+
+## Featured Projects
+
+- 📦 [conversation-to-note](https://github.com/kathyk03046-del/conversation-to-note) - A Claude Code agent that turns conversations into structured Obsidian notes.
+
+## Energy & Mobility Domain
+- 📦 [conversation-to-note](https://github.com/kathyk03046-del/conversation-to-note) - A Claude Code agent that turns conversations into structured Obsidian notes.
+
+
 <!--
 **kathyk03046-del/kathyk03046-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
