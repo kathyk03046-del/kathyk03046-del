@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 I build opinionated skills and products. I don't have a traditional engineering background, but with the help of coding agents, I've been able to turn lots of my ideas into reality. For me, Code is an externalization of thought.
 
@@ -6,12 +6,14 @@ I build opinionated skills and products. I don't have a traditional engineering 
 
 ## Featured Projects
 
-- 📦 [conversation-to-note](https://github.com/kathyk03046-del/conversation-to-note) - A Claude Code agent that turns conversations into structured Obsidian notes.
+- 📒 [conversation-to-note](https://github.com/kathyk03046-del/conversation-to-note) - A Claude Code agent that turns conversations into structured Obsidian notes.
+- 🫧 [catch-later](https://github.com/kathyk03046-del/catch-later) - A thought buffer for macOS. Just Hold Space to capture what's on your mind mid-task, and catch them later.
+  
 
 ## Energy & Mobility Domain
-- 📦 [conversation-to-note](https://github.com/kathyk03046-del/conversation-to-note) - A Claude Code agent that turns conversations into structured Obsidian notes.
-
-
+- 📦 [U.S._Grid_AI_Infrastructure_Audit](https://github.com/kathyk03046-del/U.S._Grid_AI_Infrastructure_Audit) - End-to-end data pipeline for U.S. grid infrastructure audit. Integrates EIA-930/861M/923 datasets to model physical resilience, unit economics, and ESG compliance for 100MW+ AI clusters.
+- [Fleet-ROI-Optimizer-Electric-Aviation](https://github.com/kathyk03046-del/Fleet-ROI-Optimizer-Electric-Aviation)- A digital twin and predictive ROI engine for electric aircraft fleets. Bridges 1Hz physics telemetry with a 96%-accuracy polynomial ML model and linear programming (Solver) to maximize EBITDA under regional energy constraints.
+  
 <!--
 **kathyk03046-del/kathyk03046-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
