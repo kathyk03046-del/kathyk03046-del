@@ -2,6 +2,7 @@
 
 I build opinionated skills and products. I don't have a traditional engineering background, but with the help of coding agents, I've been able to turn lots of my ideas into reality. **For me, code is an externalization of thought**.
 
+⚫️ [X](https://x.com/KatGan55417)
 ---
 
 ## Featured Projects
